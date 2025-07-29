@@ -100,7 +100,7 @@ compare_angles = st.sidebar.multiselect(
 )
 
 # Main content
-st.title("<center> How Neural Network Learns Physics: Projectile </center>")
+st.title("How Neural Network Learns Physics: Projectile")
 st.markdown("<center>Compare AI predictions with physics-based calculations for projectile motion</center>", unsafe_allow_html=True)
 
 # Physics-based trajectory functions
